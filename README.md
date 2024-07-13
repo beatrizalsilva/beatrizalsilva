@@ -5,5 +5,5 @@
 
 🎯 Objetivo: impactar positivamente a vida das pessoas, criando soluções que facilitem o dia a dia.
 
-📖 Aprendendo: TypeScript, Node JS, Nest JS, SQL, MySQL, React, Tailwind e Insomnia.
+📖 Aprendendo: Node.JS e banco de dados (relacional e não relacional).
 
