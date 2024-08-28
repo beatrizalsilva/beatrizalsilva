@@ -1,16 +1,16 @@
 <h2 align="left">Olá!</h2>
 
 <h3 align="left">Meu nome é Beatriz</h3>
-<p align="left">Sou uma desenvolvedora de software em constante evolução e aprendizado. Atualmente, estou aprimorando minhas habilidades no back-end com Node.js e bancos de dados, além de explorar o front-end com React.js, criando interfaces dinâmicas e responsivas. Busco compreender como o back-end e o front-end se comunicam, garantindo integrações assertivas em cada projeto.<br><br>✨ Quando não estou codando, estou aproveitando um bom livro, jogando cozy games ou explorando novos lugares.</p>
+<p align="left">Sou uma desenvolvedora de software em constante evolução e aprendizado. Após participar de um bootcamp, descobri meu interesse pelo front-end. Atualmente, estou aprimorando minhas habilidades em JavaScript e React.js, criando interfaces dinâmicas e responsivas. Busco participar de projetos onde possa desenvolver produtos ou serviços usando novas tecnologias, garantindo a melhor experiência em cada projeto.</p>
 
 <h3 align="left">Tecnologias</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
