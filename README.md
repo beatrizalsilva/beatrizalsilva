@@ -1,31 +1,13 @@
-<h2 align="left">Olá!</h2>
+## Olá! Meu nome é Beatriz
+- 🌱 Desenvolvedora de software em constante evolução e aprendizado. 
+- 🔍 Já explorei React.js e Nest.js, mas ainda estou aprimorando meus conhecimentos nessas tecnologias.
+- ☕ Atualmente focada em Java e desenvolvimento backend.
 
-<h3 align="left">Meu nome é Beatriz</h3>
-<p align="left">Sou uma desenvolvedora de software em constante evolução e aprendizado. Após participar de um bootcamp, descobri meu interesse pelo front-end. Atualmente, estou aprimorando minhas habilidades em JavaScript e React.js, criando interfaces dinâmicas e responsivas. Busco participar de projetos onde possa desenvolver produtos ou serviços usando novas tecnologias, garantindo a melhor experiência em cada projeto.</p>
-
-<h3 align="left">Tecnologias</h3>
+### Tecnologias
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-</div>
-
-<h3 align="left">Contatos</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/beatrizalsilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:alvesbeatriz148@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
+<!--   <img align="center" alt="Java" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> -->
+  <img align="center" alt="MySQL" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="VCSS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="HTML" height="5%" width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 </div>
