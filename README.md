@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Beatriz
 - 🌱 Desenvolvedora de software em constante evolução e aprendizado. 
-- 🔍 Já explorei React.js e Nest.js, mas ainda estou aprimorando meus conhecimentos nessas tecnologias.
+- 🔍 Já explorei React.js e Nest.js, adquirindo uma compreensão de seus fundamentos.
 - ☕ Atualmente focada em Java e desenvolvimento backend.
 
 ### Tecnologias
